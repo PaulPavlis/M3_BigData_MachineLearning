@@ -1,3 +1,7 @@
+# Individual gitignore files
+data/citibike_individual_csv_files/*
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks,notepadpp
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,jupyternotebooks,notepadpp
 
