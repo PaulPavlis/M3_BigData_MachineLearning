@@ -8,6 +8,12 @@ If you want to work with the full amont of data, you need to install git lfs (la
 https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
 ```
 
+After that you need to download the lfs data separately from the rest of the project. This is done by doing:
+
+```
+git lfs pull
+```
+
 For just using a random sample of the data, this is not required
 
 ### Optional: Adding or updating files to git lfs
