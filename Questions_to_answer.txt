@@ -1,3 +1,6 @@
+We link the NYC citibike tripdata with daily weather observations.
+The weather data consists of one row per day which includes observations such as: min/max/mean temperature, precipitation, min/max/mean wind, etc.
+
 – Which stations were most popular (starts/ends)?
     - Is the operator of citibike required to evenly distribute the bikes?
 	- At which stations is the number of trip-ends higher than the number of trip-starts?
@@ -10,5 +13,3 @@
 	- precipitation
 	- wind speed
 	- season
-
-
