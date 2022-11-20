@@ -1,0 +1,14 @@
+– Which stations were most popular (starts/ends)?
+    - Is the operator of citibike required to evenly distribute the bikes?
+	- At which stations is the number of trip-ends higher than the number of trip-starts?
+– Development of trips over the year?
+– Stations/trips that are popular in summer/winter...during morning/at night?
+– Outliers/stations especially popular during a specific day (event)?
+– Other interesting patterns found?
+– Find correlations with weather conditions:
+    - min/max/mean temperature
+	- precipitation
+	- wind speed
+	- season
+
+
