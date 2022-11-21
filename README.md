@@ -2,6 +2,8 @@
 
 # Using this project
 
+## Important: Since github decided my lfs space is not enough, the data can be found at: https://1drv.ms/u/s!Akm5cFGjLfsviOBMlDX97-TNY55ugQ?e=R4B7YS
+
 If you want to work with the full amont of data, you need to install git lfs (large file storage). Follow the instructions at:
 
 ```
