@@ -1,5 +1,7 @@
 # M3_BigData_MachineLearning
 
+This project can be found at: https://github.com/PaulPavlis/M3_BigData_MachineLearning
+
 # Using this project
 
 ## Important: Since github decided my lfs space is not enough, the data can be found at: https://1drv.ms/u/s!Akm5cFGjLfsviOBMlDX97-TNY55ugQ?e=R4B7YS
