@@ -1,6 +1,8 @@
 # Individual gitignore files
 data/citibike_individual_csv_files/*
 
+### To ignore the data file
+data/2015-citibike_tripdata_combined.csv
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks,notepadpp
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,jupyternotebooks,notepadpp
