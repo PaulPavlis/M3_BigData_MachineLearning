@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+plotly
+nbformat
+kmodes
+sklearn
+h2o
